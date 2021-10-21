@@ -1,0 +1,42 @@
+header {
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+    margin-top: 10%;
+    border: solid;
+    padding: 1%;
+    max-width: 15%;
+    margin-left: 17%;
+    border-color: #1c4588;
+    font-size: large;
+}
+img {
+    width: 130%;
+    margin-left: 200%;
+    border-style: solid;
+    margin-top: 0%;
+    height: 10%;
+}
+h4 {
+    display: flex;
+    justify-content: flex-end;
+    color: dodgerblue;
+    font-style: italic;
+    border-bottom: ridge;
+    border-color: dodgerblue;
+    margin-left: 15%;
+    margin-right: 10%;
+    
+}
+.special {
+    margin-left: 13%;
+}
+.many {
+    margin-left: 19%;
+}
+.body {
+    margin-left: 28%;
+}
+h3 {
+    margin-left: 15%;
+}
